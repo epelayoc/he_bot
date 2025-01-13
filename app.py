@@ -55,7 +55,7 @@ def generate_summary(document_data):
 
 
 #st.image('https://www.cdti.es/sites/default/files/logo_cdti_2024_con_banderas_soportes_digitales.jpg')
-st.image(https://www.horizonteeuropa.es/sites/default/files/2023-01/horizon-europe_0.jpg)
+st.image('https://www.horizonteeuropa.es/sites/default/files/2023-01/horizon-europe_0.jpg')
 st.title("Asistente conversacional HE")
 instrucciones = """
 Puedes usar el chat para 
