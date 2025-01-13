@@ -10,7 +10,7 @@ model = genai.GenerativeModel("gemini-1.5-pro-latest")
 idioma = 'español'
 
 titulo = "HE - Guía rápida del participante"
-pdf_url = "https://www.horizonteeuropa.es/sites/default/files/noticias/GUIA%20RAPIDA.pdf"
+pdf_url = 'https://www.horizonteeuropa.es/sites/default/files/noticias/GUIA%20RAPIDA.pdf'
 resumen = """
 Esta guía ha sido elaborada por CDTI, E.P.E, en colaboración con la Fundación Española
 para la Ciencia y la Tecnología (FECYT) y el Ministerio de Ciencia e Innovación (MCIN).
