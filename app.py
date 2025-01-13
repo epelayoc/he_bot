@@ -9,8 +9,8 @@ model = genai.GenerativeModel("gemini-1.5-pro-latest")
 
 idioma = 'español'
 
-titulo = "Convocatoria Neotec 2024 - CERRADA"
-pdf_url = "https://www.cdti.es/sites/default/files/2024-04/convocatoria_neotec_2024.pdf"
+titulo = "HE - Guía rápida del participante"
+pdf_url = "https://www.horizonteeuropa.es/sites/default/files/noticias/GUIA%20RAPIDA.pdf"
 resumen = """
 Esta guía ha sido elaborada por CDTI, E.P.E, en colaboración con la Fundación Española
 para la Ciencia y la Tecnología (FECYT) y el Ministerio de Ciencia e Innovación (MCIN).
@@ -55,7 +55,7 @@ def generate_summary(document_data):
 
 
 #st.image('https://www.cdti.es/sites/default/files/logo_cdti_2024_con_banderas_soportes_digitales.jpg')
-st.image('https://www.notion.so/images/page-cover/nasa_tim_peake_spacewalk.jpg')
+st.image(https://www.horizonteeuropa.es/sites/default/files/2023-01/horizon-europe_0.jpg)
 st.title("Asistente conversacional HE")
 instrucciones = """
 Puedes usar el chat para 
